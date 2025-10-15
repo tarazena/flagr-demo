@@ -16,7 +16,7 @@
     "dotenv": "^16.4.7",
     "express": "^5.0.1",
     "express-openapi-validator": "^5.4.3",
-    "tsx": "4.19.2"
+    "tsx": "4.20.5"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
